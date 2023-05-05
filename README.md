@@ -10,6 +10,7 @@ Course code:SE221
 
 Course Name:Object Oriented Design
 
+            -----
 
 Requrements are:
 
@@ -29,7 +30,7 @@ Requrements are:
 
 8.Logout
 
---
+       ------
 
 Completed Requirements are:
 
